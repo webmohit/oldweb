@@ -1,0 +1,8 @@
+title: "Website "
+description: Welcome to the World of Wonders
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
